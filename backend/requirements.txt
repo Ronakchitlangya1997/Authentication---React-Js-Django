@@ -1,0 +1,4 @@
+Django==4.1.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.1
+django-cors-headers==3.13.0
